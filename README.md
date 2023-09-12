@@ -1,2 +1,2 @@
-# ecdh-hoir
-ecdh hoir
+# ecdh-noir
+ecdh noir
